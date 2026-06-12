@@ -1,4 +1,4 @@
-# AnishAnitl
+# anish-antil
 # 👋 Hey there, I'm Anish Antil
 
 🎓 A passionate and goal-oriented **B.Tech Computer Science** student at **SRM University, Delhi-NCR**. I’m a tech enthusiast who enjoys building impactful solutions, learning new technologies, and solving real-world problems through code.
