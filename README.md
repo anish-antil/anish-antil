@@ -1,5 +1,5 @@
 # AnishAnitl
-# 👋 Hey there, I'm Anish Kumar
+# 👋 Hey there, I'm Anish Antil
 
 🎓 A passionate and goal-oriented **B.Tech Computer Science** student at **SRM University, Delhi-NCR**. I’m a tech enthusiast who enjoys building impactful solutions, learning new technologies, and solving real-world problems through code.
 
@@ -81,7 +81,7 @@ A classic arcade-style Java game.
 
 ## 🌐 My Online Presence
 
-- 💼 [Portfolio Website](https://my-portfolio-iota-bay-60.vercel.app/)
+- 💼 [Portfolio Website](https://anishantil.vercel.app)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/anish-kumar-57a538356/)
 - 💻 [GitHub](https://github.com/AnishAntil)
 - 🧠 [LeetCode](https://leetcode.com/u/AnishAntil/)
